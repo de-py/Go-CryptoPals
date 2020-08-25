@@ -1,2 +1,2 @@
 # Go-CryptoPals
-Practicing Go and Practicing Crypto.
+Practicing Go and Practicing Crypto
